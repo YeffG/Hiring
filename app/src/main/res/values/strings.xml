@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hiring</string>
+    <string-array name="opciones_spinner">
+        <item>Tipo de Usuario</item>
+        <item>Cliente</item>
+        <item>Proveedor</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
